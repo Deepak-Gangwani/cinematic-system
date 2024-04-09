@@ -50,7 +50,7 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 9) Bootstrap
 10) Sqlite
 11) Authorization & Authentication Features using login and register
-12) admin panel to handle users
+12) Admin panel to handle users
 
 
 
