@@ -1,8 +1,8 @@
-# Cinematic Movies Prediction System
+# CINEMATIC MOVIES PREDICTION SYSTEM
 ## Download Complete Code Using Given URL:- https://drive.google.com/file/d/1GhrsHxXKL4HDXKjONunWU9_4el7WqSCR/view?usp=sharing
 ### Git LFS is not working because of less bandwidth size in the free version of github so uploaded complete project on drive that can be dowloaded and run on local system.
 
-# HEALTH INSURANCE PREMIUM PREDICTION: 
+
 Problem Statement :
 The main goal of this project to predict the health insurance premium for a person based on their health conditions. This can assist a person in concentrating on the health side of an insurance policy rather than the ineffective part.
 
