@@ -51,14 +51,14 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 
 
 # TECHNICAL ASPECTS:
-5) Python with Django Framework 
-6) HTML5
-7) CSS3
-8) JS & jQuery
-9) Bootstrap
-10) Sqlite
-11) Authorization & Authentication Features using login and register
-12) Admin panel to handle users
+1) Python with Django Framework 
+2) HTML5
+3) CSS3
+4) JS & jQuery
+5) Bootstrap
+6) Sqlite
+7) Authorization & Authentication Features using login and register
+8) Admin panel to handle users
 
 
 
