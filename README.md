@@ -44,8 +44,10 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 # LIBRARIES USED:
 1) Pandas
 2) Numpy
-3) Pickle, Matplotlib, Seaborn
-4) Scikit-Learn
+3) NLTK (Natural Language Toolkit)
+4) AST (Abstract Syntax Tree)
+5) Pickle, Matplotlib, Seaborn
+6) Scikit-Learn
 
 
 # TECHNICAL ASPECTS:
