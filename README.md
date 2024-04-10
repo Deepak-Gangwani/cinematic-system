@@ -15,12 +15,18 @@ The dataset is taken from Kaggle site. You can download the dataset from: https:
 # APPROACH :
 Data is collected from kaggle site. All the required tasks to prepare the data for model buliding such as data cleaning, pre-processing, data exploration,visualisation were done.
 ##### 1.Data exploration: Exploring the dataset using pandas, numpy, matplotlib, plotly and seaborn.
+![step-1](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/401a3f3e-124d-4840-a0b0-cf6f9a1903d0)
+
 ##### 2.Exploratory Data Analysis : Plotted different graphs to get more insights about dependent and independent variables/features.
+![step-2](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/84899f2f-e1a9-479b-815d-3c792c6c055f)
+
 ##### 3.Feature Engineering : There are numerical and categorical features are present. Scaling was performed on numerical data and encoding of categorical data is done.
 ```
  import ast 
  ast.literal_eval(obj)
 ```
+![step-3](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/985209b3-9d11-4949-acbc-0e5133d30beb)
+
 ##### 4.Model Building : Text Vectorization Process Will Be Done After Filtering All the Dataset.
 
  	 - Whichever the strings in tags who are having the closest vector rate they can be considered as similar type of movie which can be recommended
@@ -35,12 +41,16 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
  Before:-["loved","loving","love"]
  After:-["Love","love","love"]
 ```
+![step-4](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/1fa18214-4331-4268-810e-f3aa72661b06)
+
 ##### 6.Distance Metrics: Creating a method to calculate the cosine distance between every movie which get compared
 ```
  from sklearn.metrics.pairwise import cosine_similarity
  similarity=cosine_similarity(vectors)#this will check the 4806 times similarity between every single movie
  similarity
-``` 
+```
+![step-5](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/a0a8fa38-f68b-4614-b13e-4f342a082dd9)
+
 ##### 7.Pickle File : Selected model as per best vector points & similarity using distance metrics created pickle file using pickle library.
 ##### 8.Webpage & Deployment : Created a web application using python with django framework that takes all the necessary inputs from the user & shows the output. The project prototype is in streamlit with the given url repository that is https://cinematic-recommender-system-8r76gvfmxymapuae5dgbru.streamlit.app.
 
@@ -57,6 +67,10 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 
 ## Authentication and Authorization
 ![chatbot-login-signup-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/c649bd96-bbc3-4071-9b48-6fdd3cff15ca)
+
+## Admin panel to handle dynamic data and users credentials
+![admin-panel](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/57290cbc-b237-4a5d-8543-e59397e915f1)
+
 
 # LIBRARIES USED:
 1) Pandas
