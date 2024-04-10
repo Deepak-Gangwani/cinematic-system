@@ -52,7 +52,7 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 ![step-5](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/a0a8fa38-f68b-4614-b13e-4f342a082dd9)
 
 ##### 7.Pickle File : Selected model as per best vector points & similarity using distance metrics created pickle file using pickle library.
-##### 8.Webpage & Deployment : Created a web application using python with django framework that takes all the necessary inputs from the user & shows the output. The project prototype is in streamlit with the given url repository that is https://cinematic-recommender-system-8r76gvfmxymapuae5dgbru.streamlit.app.
+##### 8.Webpage & Deployment : Created a web application using python with django framework that takes all the necessary inputs from the user & shows the output. The project prototype is in streamlit with the given url repository that is https://github.com/Deepak-Gangwani/cinematic-recommender-system.
 
 ![movie-prediction-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/8d08888c-5deb-4475-a54a-0d095a9db157)
 
