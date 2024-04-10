@@ -9,7 +9,7 @@ The primary objective of this project is to develop a predictive model for movie
 By accurately forecasting the success of movies, this predictive model empowers production companies to focus their resources more effectively and increase the likelihood of achieving commercial success.
 
 # DATASET:
-The dataset is taken from Kaggle site. You can download the dataset from :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+The dataset is taken from Kaggle site. You can download the dataset from: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ![Home-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/327abfec-6c27-4347-8095-d0b39f9b7f8c)
 
