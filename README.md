@@ -9,20 +9,9 @@ The primary objective of this project is to develop a predictive model for movie
 By accurately forecasting the success of movies, this predictive model empowers production companies to focus their resources more effectively and increase the likelihood of achieving commercial success.
 
 # DATASET:
-The dataset is taken from Kaggle site. Yo can download the dataset from :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+The dataset is taken from Kaggle site. You can download the dataset from :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ![Home-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/327abfec-6c27-4347-8095-d0b39f9b7f8c)
-
-
-![Movie-details-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/0cd4de4a-e0f6-42f4-8e52-23f47ef6ada0)
-![movie-prediction-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/8d08888c-5deb-4475-a54a-0d095a9db157)
-![search-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/bf1404bc-dc28-4b40-b691-34a06fa7f36f)
-![recursive-recommendation-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/7e7438b9-d8e7-4c62-bb98-b37cfbe33316)
-![team-contact-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/38bc0f81-6919-465f-9a86-d9b7780bb1e5)
-![chatbot-login-signup-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/c649bd96-bbc3-4071-9b48-6fdd3cff15ca)
-
-
-
 
 # APPROACH :
 Data is collected from kaggle site. All the required tasks to prepare the data for model buliding such as data cleaning, pre-processing, data exploration,visualisation were done.
@@ -38,6 +27,18 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 ##### 5.Model Selection : Tested all the models to check the RMSE & R-squared.
 ##### 6.Pickle File : Selected model as per best RMSE score & R-squared and created pickle file using pickle library.
 ##### 7.Webpage &Deployment : Created a web application using streamlit API that takes all the necessary inputs from the user & shows the output. Then deployed project on the Heroku Platform.
+
+![Movie-details-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/0cd4de4a-e0f6-42f4-8e52-23f47ef6ada0)
+![movie-prediction-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/8d08888c-5deb-4475-a54a-0d095a9db157)
+![search-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/bf1404bc-dc28-4b40-b691-34a06fa7f36f)
+![recursive-recommendation-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/7e7438b9-d8e7-4c62-bb98-b37cfbe33316)
+![team-contact-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/38bc0f81-6919-465f-9a86-d9b7780bb1e5)
+![chatbot-login-signup-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/c649bd96-bbc3-4071-9b48-6fdd3cff15ca)
+
+
+
+
+
 
 
 # LIBRARIES USED:
