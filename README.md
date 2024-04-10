@@ -18,8 +18,10 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 ##### 1.Data exploration: Exploring the dataset using pandas, numpy, matplotlib, plotly and seaborn.
 ##### 2.Exploratory Data Analysis : Plotted different graphs to get more insights about dependent and independent variables/features.
 ##### 3.Feature Engineering : There are numerical and categorical features are present. Scaling was performed on numerical data and encoding of categorical data is done.
-⇥ import ast 
-⇥ ast.literal_eval(obj)
+```
+ import ast 
+ ast.literal_eval(obj)
+```
 ##### 4.Model Building : Text Vectorization Process Will Be Done After Filtering All the Dataset.
  	⇥ Whichever the strings in tags who are having the closest vector rate they can be considered as similar type of movie which can be recommended
  	⇥ For converting text into vectors their are many methods like:-1)Bag Of Words, 2)tfidf, 3)word to vec
