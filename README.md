@@ -12,8 +12,6 @@ By accurately forecasting the success of movies, this predictive model empowers 
 The dataset is taken from Kaggle site. You can download the dataset from: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 ![Movie-details-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/0cd4de4a-e0f6-42f4-8e52-23f47ef6ada0)
 
-![movie-prediction-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/8d08888c-5deb-4475-a54a-0d095a9db157)
-
 # APPROACH :
 Data is collected from kaggle site. All the required tasks to prepare the data for model buliding such as data cleaning, pre-processing, data exploration,visualisation were done.
 ##### 1.Data exploration: Exploring the dataset using pandas, numpy, matplotlib, plotly and seaborn.
@@ -44,7 +42,9 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
  similarity
 ``` 
 ##### 7.Pickle File : Selected model as per best vector points & similarity using distance metrics created pickle file using pickle library.
-##### 8.Webpage & Deployment : Created a web application using python with django framework that takes all the necessary inputs from the user & shows the output. The project prototype is in streamlit with the given url repository that is https://cinematic-recommender-system-8r76gvfmxymapuae5dgbru.streamlit.app/ .
+##### 8.Webpage & Deployment : Created a web application using python with django framework that takes all the necessary inputs from the user & shows the output. The project prototype is in streamlit with the given url repository that is https://cinematic-recommender-system-8r76gvfmxymapuae5dgbru.streamlit.app.
+
+![movie-prediction-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/8d08888c-5deb-4475-a54a-0d095a9db157)
 
 ## Search Any Favourite Movie
 ![search-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/bf1404bc-dc28-4b40-b691-34a06fa7f36f)
@@ -52,10 +52,10 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 ## Recommendation Inside Recommendation Approach 
 ![recursive-recommendation-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/7e7438b9-d8e7-4c62-bb98-b37cfbe33316)
 
-## Any Queries Contact US
+## Any Queries Contact US with personal chatbot assistant
 ![team-contact-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/38bc0f81-6919-465f-9a86-d9b7780bb1e5)
 
-## Personal Chatbot Assistant
+## Authentication and Authorization
 ![chatbot-login-signup-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/c649bd96-bbc3-4071-9b48-6fdd3cff15ca)
 
 # LIBRARIES USED:
