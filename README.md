@@ -2,12 +2,17 @@
 ![About-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/d6586b48-b571-48c3-8f74-6e57efa0b3bf)
 ## Download Complete Code Using the Given URL: https://drive.google.com/file/d/1GhrsHxXKL4HDXKjONunWU9_4el7WqSCR/view?usp=sharing (Git LFS is not working due to limited bandwidth size in the free version of GitHub, so I have uploaded the complete project on Google Drive. You can download and run it on your local system.)
 
-![Home-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/327abfec-6c27-4347-8095-d0b39f9b7f8c)
-Problem Statement :
-The main goal of this project to predict the health insurance premium for a person based on their health conditions. This can assist a person in concentrating on the health side of an insurance policy rather than the ineffective part.
+
+# Problem Statement :
+The primary objective of this project is to develop a predictive model for movie success based on various factors such as genre, cast, director, budget, release date, and social media buzz. 
+By accurately forecasting the success of movies, this predictive model empowers production companies to focus their resources more effectively and increase the likelihood of achieving commercial success.
 
 # DATASET:
 The dataset is taken from Kaggle site. Yo can download the dataset from :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+![Home-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/327abfec-6c27-4347-8095-d0b39f9b7f8c)
+
+
 ![Movie-details-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/0cd4de4a-e0f6-42f4-8e52-23f47ef6ada0)
 ![movie-prediction-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/8d08888c-5deb-4475-a54a-0d095a9db157)
 ![search-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/bf1404bc-dc28-4b40-b691-34a06fa7f36f)
