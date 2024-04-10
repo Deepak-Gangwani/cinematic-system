@@ -18,22 +18,22 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 ##### 1.Data exploration: Exploring the dataset using pandas, numpy, matplotlib, plotly and seaborn.
 ##### 2.Exploratory Data Analysis : Plotted different graphs to get more insights about dependent and independent variables/features.
 ##### 3.Feature Engineering : There are numerical and categorical features are present. Scaling was performed on numerical data and encoding of categorical data is done.
-⇥import ast 
-⇥ast.literal_eval(obj)
+⇥ import ast 
+⇥ ast.literal_eval(obj)
 ##### 4.Model Building : Text Vectorization Process Will Be Done After Filtering All the Dataset.
- 	⇥Whichever the strings in tags who are having the closest vector rate they can be considered as similar type of movie which can be recommended
- 	⇥For converting text into vectors their are many methods like:-1)Bag Of Words, 2)tfidf, 3)word to vec
- 	⇥But I will use bag of words which is more simpler compare to other vector methods
- 	⇥In this method I will seperate those tags in which the maximum times particular word is repeated
- 	⇥Finding the 5000 words which is repeated maximum times
+ 	⇥ Whichever the strings in tags who are having the closest vector rate they can be considered as similar type of movie which can be recommended
+ 	⇥ For converting text into vectors their are many methods like:-1)Bag Of Words, 2)tfidf, 3)word to vec
+ 	⇥ But I will use bag of words which is more simpler compare to other vector methods
+ 	⇥ In this method I will seperate those tags in which the maximum times particular word is repeated
+ 	⇥ Finding the 5000 words which is repeated maximum times
 ##### 5.Stemming Method Using NLTK :  Applying steming method which convert the singular and plural words into one word
-⇥Examples
-⇥Before:-["loved","loving","love"]
-⇥After:-["Love","love","love"]
+⇥ Examples
+⇥ Before:-["loved","loving","love"]
+⇥ After:-["Love","love","love"]
 ##### 6.Distance Metrics: Creating a method to calculate the cosine distance between every movie which get compared
-⇥from sklearn.metrics.pairwise import cosine_similarity
-⇥similarity=cosine_similarity(vectors)#this will check the 4806 times similarity between every single movie
-⇥similarity 
+⇥ from sklearn.metrics.pairwise import cosine_similarity
+⇥ similarity=cosine_similarity(vectors)#this will check the 4806 times similarity between every single movie
+⇥ similarity 
 ##### 7.Pickle File : Selected model as per best RMSE score & R-squared and created pickle file using pickle library.
 ##### 8.Webpage &Deployment : Created a web application using streamlit API that takes all the necessary inputs from the user & shows the output. Then deployed project on the Heroku Platform.
 
