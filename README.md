@@ -1,6 +1,7 @@
 # CINEMATIC MOVIES PREDICTION SYSTEM
 ![About-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/d6586b48-b571-48c3-8f74-6e57efa0b3bf)
-### Download Complete Code Using the Given URL: https://drive.google.com/file/d/1GhrsHxXKL4HDXKjONunWU9_4el7WqSCR/view?usp=sharing (Git LFS is not working due to limited bandwidth size in the free version of GitHub, so I have uploaded the complete project on Google Drive. You can download and run it on your local system.)
+### Download Complete Code Using the Given URL: https://drive.google.com/file/d/1GhrsHxXKL4HDXKjONunWU9_4el7WqSCR/view?usp=sharing 
+### (Git LFS is not working due to limited bandwidth size in the free version of GitHub, so I have uploaded the complete project on Google Drive. You can download and run it on your local system.)
 
 
 # Problem Statement :
