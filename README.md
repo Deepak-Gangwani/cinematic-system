@@ -62,7 +62,7 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 ## Recommendation Inside Recommendation Approach 
 ![recursive-recommendation-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/7e7438b9-d8e7-4c62-bb98-b37cfbe33316)
 
-## Any Queries Contact US with personal chatbot assistant
+## Any Queries Contact US With Personal Chatbot Assistant
 ![team-contact-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/38bc0f81-6919-465f-9a86-d9b7780bb1e5)
 
 ## Authentication and Authorization
@@ -70,7 +70,6 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 
 ## Admin panel to handle dynamic data and users credentials
 ![admin-panel](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/57290cbc-b237-4a5d-8543-e59397e915f1)
-
 
 # LIBRARIES USED:
 1) Pandas
