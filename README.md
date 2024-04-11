@@ -2,8 +2,8 @@
 ![About-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/d6586b48-b571-48c3-8f74-6e57efa0b3bf)
 ### Download Complete Code Using the Given URL: https://drive.google.com/file/d/1fkoEdarYVDKDz9XjWPGnpje_9fDgdF8g/view?usp=sharing
 
-<img align="left" width="400" height="300" src="https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/5a5b0952-71d6-4681-bee8-cfeca3e35118" alt="desktop-lfs" />
-<img align="left" width="400" height="300" src="https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/87b92323-481f-4fe8-839e-669ea47ea433" alt="git-lfs" />
+<img align="left" width="400" height="200" src="https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/5a5b0952-71d6-4681-bee8-cfeca3e35118" alt="desktop-lfs" />
+<img align="left" width="400" height="200" src="https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/87b92323-481f-4fe8-839e-669ea47ea433" alt="git-lfs" />
 
 ### (Git LFS is not working due to limited bandwidth size in the free version of GitHub, so I have uploaded the complete project on Google Drive. You can download and run it on your local system.)
 ![Home-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/327abfec-6c27-4347-8095-d0b39f9b7f8c)
