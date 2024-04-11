@@ -80,20 +80,20 @@ Data is collected from kaggle site. All the required tasks to prepare the data f
 5) Pickle, Matplotlib, Seaborn
 6) Scikit-Learn
 
-
 # TECHNICAL ASPECTS:
 1) Python with Django Framework
-2) The MovieDB API
-3) Language Selector
-4) Attractive Color Palette Theme
-5) Real Time Production Level Of Coding
-6) HTML5
-7) CSS3
-8) JS & jQuery
-9) Bootstrap
-10) Sqlite
-11) Authorization & Authentication Features using login and register
-12) Admin panel to handle users
+2) IBM Watson Chatbot Assistant
+3) The MovieDB API
+4) Language Selector
+5) Attractive Color Palette Theme
+6) Real Time Production Level Of Coding
+7) HTML5
+8) CSS3
+9) JS & jQuery
+10) Bootstrap
+11) Sqlite
+12) Authorization & Authentication Features using login and register
+13) Admin panel to handle users
 
 
 
