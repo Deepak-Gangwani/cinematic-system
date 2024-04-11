@@ -2,11 +2,6 @@
 ![About-page-gif](https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/d6586b48-b571-48c3-8f74-6e57efa0b3bf)
 ### Download Complete Code Using the Given URL: https://drive.google.com/file/d/1fkoEdarYVDKDz9XjWPGnpje_9fDgdF8g/view?usp=sharing
 
-<img align="right" width="500"  src="https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/5a5b0952-71d6-4681-bee8-cfeca3e35118" alt="desktop-lfs" />
-<img align="right" width="500"  src="https://github.com/Deepak-Gangwani/iNeuron-internship-project/assets/108722554/87b92323-481f-4fe8-839e-669ea47ea433" alt="git-lfs" />
-
-### (Git LFS is not working due to limited bandwidth size in the free version of GitHub, so I have uploaded the complete project on Google Drive. You can download and run it on your local system.)
-
 # Problem Statement :
 The primary objective of this project is to develop a predictive model for movie success based on various factors such as genre, cast, director, budget, release date, and social media buzz. 
 By accurately forecasting the success of movies, this predictive model empowers production companies to focus their resources more effectively and increase the likelihood of achieving commercial success.
